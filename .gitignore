@@ -1,0 +1,4 @@
+# Data uji lokal (berisi sesi & data contoh)
+dev/db.json
+.DS_Store
+node_modules/
